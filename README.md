@@ -1,4 +1,4 @@
 # irsad-demo
 This is my first Git Repository.
 <br>
-Author - mohd irsad
+Author - mohd irsad (self)
